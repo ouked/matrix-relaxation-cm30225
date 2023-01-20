@@ -1,6 +1,6 @@
 # Parallel Computing Coursework - CM30225
 
-Performing an iterative method on a matrix, using many cores to increase speedup.
+Performing an iterative method on a matrix, decreasing execution time by using Parallel technqiues
 
 Uses both pthreads (sharedmem.c) and OpenMPI (distributed.c).
 
